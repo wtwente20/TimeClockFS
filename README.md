@@ -1,6 +1,23 @@
-# timeclock
+## TimeClockFS
 
-A new Flutter project.
+This project is a cross-platform mobile application
+ for managing and tracking work hours of employees. 
+The application was built using Flutter for the front end, 
+Java for the backend, and MySQL for the database.
+
+# Features
+
+User Authentication (Login/Register)
+Clock-in/Clock-out functionality
+Work session management
+Role-based access (Regular User/Admin)
+Admin view for overall data monitoring
+
+# Tech Stack
+
+Frontend: Flutter
+Backend: Java (Spring Boot)
+Database: MySQL
 
 ## Getting Started
 
