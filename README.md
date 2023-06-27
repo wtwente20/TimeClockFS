@@ -8,15 +8,21 @@ Java for the backend, and MySQL for the database.
 # Features
 
 -User Authentication (Login/Register)
+
 -Clock-in/Clock-out functionality
+
 -Work session management
+
 -Role-based access (Regular User/Admin)
+
 -Admin view for overall data monitoring
 
 # Tech Stack
 
 -Frontend: Flutter
+
 -Backend: Java (Spring Boot)
+
 -Database: MySQL
 
 ## Getting Started
